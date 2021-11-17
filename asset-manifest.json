@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/games-POC/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/games-POC/static/js/main.090fe316.chunk.js",
+    "main.js.map": "/games-POC/static/js/main.090fe316.chunk.js.map",
+    "runtime-main.js": "/games-POC/static/js/runtime-main.098c1781.js",
+    "runtime-main.js.map": "/games-POC/static/js/runtime-main.098c1781.js.map",
+    "static/js/2.7e399939.chunk.js": "/games-POC/static/js/2.7e399939.chunk.js",
+    "static/js/2.7e399939.chunk.js.map": "/games-POC/static/js/2.7e399939.chunk.js.map",
+    "static/js/3.312e64e9.chunk.js": "/games-POC/static/js/3.312e64e9.chunk.js",
+    "static/js/3.312e64e9.chunk.js.map": "/games-POC/static/js/3.312e64e9.chunk.js.map",
+    "index.html": "/games-POC/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/games-POC/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7e399939.chunk.js.LICENSE.txt": "/games-POC/static/js/2.7e399939.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/games-POC/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.098c1781.js",
+    "static/js/2.7e399939.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.090fe316.chunk.js"
+  ]
+}
