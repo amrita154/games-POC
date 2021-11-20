@@ -1,10 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import SpeechToText from './components/speech-game';
+import "./App.css";
+import Navigation from "./routes";
 
 function App() {
   return (
-    <SpeechToText></SpeechToText>
+    <div className="App">
+ <Navigation/>
+    </div>
   );
 }
 

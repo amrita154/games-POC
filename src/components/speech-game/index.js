@@ -4,6 +4,7 @@ import SpeechRecognition, {
   useSpeechRecognition,
 } from "react-speech-recognition";
 import gameData from './data';
+import Container from "../container";
 
 const SpeechToText = () => {
   const { transcript, resetTranscript } = useSpeechRecognition();
@@ -58,12 +59,14 @@ const SpeechToText = () => {
 
 
   return (
-    <div>
+    <Container>
+      <div style={{display:'flex',alignItems:'center',flexDirection:'column'}}>
       <h1> Speak {gameData[id].object} to {gameData[id].action}</h1>
       <h3>{transcript}</h3>
-      <div id="animation" ref={containerRef} style={{height:'40%',width:'40%'}}/>
+      <div id="animation" ref={containerRef} style={{height:'20%',width:'20%',}}/>
       <button onClick={onPressNext}>Next</button>
-    </div>
+      </div>
+    </Container>
   );
 };
 
