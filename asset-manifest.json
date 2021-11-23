@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/games-POC/static/css/main.7eff24ae.chunk.css",
-    "main.js": "/games-POC/static/js/main.a88f3bea.chunk.js",
-    "main.js.map": "/games-POC/static/js/main.a88f3bea.chunk.js.map",
+    "main.js": "/games-POC/static/js/main.bb6dc45a.chunk.js",
+    "main.js.map": "/games-POC/static/js/main.bb6dc45a.chunk.js.map",
     "runtime-main.js": "/games-POC/static/js/runtime-main.e85c4da2.js",
     "runtime-main.js.map": "/games-POC/static/js/runtime-main.e85c4da2.js.map",
     "static/js/2.26645fcd.chunk.js": "/games-POC/static/js/2.26645fcd.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.e85c4da2.js",
     "static/js/2.26645fcd.chunk.js",
     "static/css/main.7eff24ae.chunk.css",
-    "static/js/main.a88f3bea.chunk.js"
+    "static/js/main.bb6dc45a.chunk.js"
   ]
 }
