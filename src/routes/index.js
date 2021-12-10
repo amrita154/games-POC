@@ -1,5 +1,6 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import AudioPOC from "../components/audio";
 import ChooseImage from "../components/choose-image";
 import DragDropGame from "../components/drag-drop-game";
 import Home from "../components/home";
