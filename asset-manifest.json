@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/games-POC/static/css/main.7eff24ae.chunk.css",
-    "main.js": "/games-POC/static/js/main.bb6dc45a.chunk.js",
-    "main.js.map": "/games-POC/static/js/main.bb6dc45a.chunk.js.map",
-    "runtime-main.js": "/games-POC/static/js/runtime-main.e85c4da2.js",
-    "runtime-main.js.map": "/games-POC/static/js/runtime-main.e85c4da2.js.map",
-    "static/js/2.26645fcd.chunk.js": "/games-POC/static/js/2.26645fcd.chunk.js",
-    "static/js/2.26645fcd.chunk.js.map": "/games-POC/static/js/2.26645fcd.chunk.js.map",
-    "static/js/3.2d982e25.chunk.js": "/games-POC/static/js/3.2d982e25.chunk.js",
-    "static/js/3.2d982e25.chunk.js.map": "/games-POC/static/js/3.2d982e25.chunk.js.map",
+    "main.js": "/games-POC/static/js/main.69113c19.chunk.js",
+    "main.js.map": "/games-POC/static/js/main.69113c19.chunk.js.map",
+    "runtime-main.js": "/games-POC/static/js/runtime-main.4d973191.js",
+    "runtime-main.js.map": "/games-POC/static/js/runtime-main.4d973191.js.map",
+    "static/js/2.0f44e4a2.chunk.js": "/games-POC/static/js/2.0f44e4a2.chunk.js",
+    "static/js/2.0f44e4a2.chunk.js.map": "/games-POC/static/js/2.0f44e4a2.chunk.js.map",
+    "static/js/3.19d85fff.chunk.js": "/games-POC/static/js/3.19d85fff.chunk.js",
+    "static/js/3.19d85fff.chunk.js.map": "/games-POC/static/js/3.19d85fff.chunk.js.map",
     "index.html": "/games-POC/index.html",
     "static/css/main.7eff24ae.chunk.css.map": "/games-POC/static/css/main.7eff24ae.chunk.css.map",
-    "static/js/2.26645fcd.chunk.js.LICENSE.txt": "/games-POC/static/js/2.26645fcd.chunk.js.LICENSE.txt",
+    "static/js/2.0f44e4a2.chunk.js.LICENSE.txt": "/games-POC/static/js/2.0f44e4a2.chunk.js.LICENSE.txt",
     "static/media/apple.8733e25d.png": "/games-POC/static/media/apple.8733e25d.png",
     "static/media/bananas.5c6ec729.png": "/games-POC/static/media/bananas.5c6ec729.png",
     "static/media/fruit.8b8c962d.png": "/games-POC/static/media/fruit.8b8c962d.png",
@@ -20,9 +20,9 @@
     "static/media/strawberry.8ec7fc68.png": "/games-POC/static/media/strawberry.8ec7fc68.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e85c4da2.js",
-    "static/js/2.26645fcd.chunk.js",
+    "static/js/runtime-main.4d973191.js",
+    "static/js/2.0f44e4a2.chunk.js",
     "static/css/main.7eff24ae.chunk.css",
-    "static/js/main.bb6dc45a.chunk.js"
+    "static/js/main.69113c19.chunk.js"
   ]
 }
